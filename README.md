@@ -1,4 +1,6 @@
 # Warden
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fojkelly%2Fwarden.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fojkelly%2Fwarden?ref=badge_shield)
+
 
 Authentication and authorization tokens designed specifically for use with zero-trust microservices.
 
@@ -145,3 +147,7 @@ TODO: examples with full docker/docker-compose examples of `forge service` conta
 [hawkly.io](https://hawkly.io)
 
 [Owen Kelly](https://owenkelly.com.au)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fojkelly%2Fwarden.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fojkelly%2Fwarden?ref=badge_large)
